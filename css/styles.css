@@ -75,8 +75,8 @@ hr {
 
 .img-hover:hover {
     background-color: #F66B0E;
-    height: 365px;
-    width: 315px;
+    height: 16.5%;
+    width: 16.5%;
 }
 
 .circular {
@@ -84,7 +84,7 @@ hr {
 }
 
 #title {
-    font-size: 45px;
+    font-size: 250%;
 }
 
 a:link {
